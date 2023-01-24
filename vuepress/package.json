@@ -1,0 +1,16 @@
+{
+  "name": "backgroundprocess4z",
+  "version": "1.0.0",
+  "description": "Documentation for backgroundprocess4z",
+  "main": "index.js",
+  "repository": "https://github.com/yoohaemin/backgroundprocess4z",
+  "author": "Haemin Yoo",
+  "license": "MPL-2.0",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.53"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
